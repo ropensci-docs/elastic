@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "301bf3748deb8424774a185bcca8ed171217f2bc",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-06 23:36:18",
+    "files": 1,
+    "merge": false,
+    "message": "bump version for last pr\n"
+  },
+  "remote": "https://github.com/ropensci/elastic",
+  "pkg": "elastic"
+}
