@@ -1,0 +1,11 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  elastic: elastic.html
+  search: search.html
+last_built: 2024-03-21T06:09Z
+urls:
+  reference: https://docs.ropensci.org/elastic/reference
+  article: https://docs.ropensci.org/elastic/articles
+

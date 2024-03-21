@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "89013defadae40e1e5ee7fea0a70109962d66a4d",
+    "author": "Shivam <shivamchowdhary93@gmail.com>",
+    "time": "2023-05-25 14:20:05",
+    "files": 1,
+    "merge": false,
+    "message": "changed maintainer name\n"
+  },
+  "repo": "https://github.com/ropensci/elastic",
+  "pkg": "elastic"
+}
